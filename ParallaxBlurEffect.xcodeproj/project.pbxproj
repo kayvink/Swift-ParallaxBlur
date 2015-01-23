@@ -405,6 +405,7 @@
 				F8FF73EE1A6EBD320015C677 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F8FF73EF1A6EBD320015C677 /* Build configuration list for PBXNativeTarget "ParallaxBlurEffectTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				F8FF73F11A6EBD320015C677 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
