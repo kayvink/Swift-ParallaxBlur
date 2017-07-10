@@ -1,5 +1,5 @@
 # Swift-ParallaxBlur
-This is a little animation I wrote today during a lecture. 
+This is a little animation I wrote today. 
 It blurs the background image and adds a parallax effect.
 
 
